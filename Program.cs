@@ -15,7 +15,6 @@ namespace GameProjectHomework
             player1.BirthYear = 2001;
             player1.IsStudent = true;
 
-
             Player player2 = new Player();
             player2.NationalityId = 856312759;
             player2.FirstName = "Elif";
