@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProjectHomework", "GameProjectHomework.csproj", "{ECF56AFE-27B5-4A68-9AD7-4B553AEA8EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF56AFE-27B5-4A68-9AD7-4B553AEA8EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF56AFE-27B5-4A68-9AD7-4B553AEA8EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF56AFE-27B5-4A68-9AD7-4B553AEA8EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF56AFE-27B5-4A68-9AD7-4B553AEA8EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {557BA328-0987-4D67-9156-9BF01206FDEB}
+	EndGlobalSection
+EndGlobal
